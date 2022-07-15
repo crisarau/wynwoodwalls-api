@@ -8,7 +8,7 @@
         "id": 0,
         "date": 1657839944,
         "likes": 2,
-        "author": "me",
+        "author": "crisarau",
         "socials": [
             {
                 "ig": ""
@@ -25,12 +25,133 @@
         "id": 1,
         "date": 1657839944,
         "likes": 4,
-        "author": "me",
+        "author": "crisarau",
         "socials": [
             {
                 "ig": ""
             }
         ],
         "image": "https://cataas.com/cat"
+    },
+
+    {
+        "title": "blue flower",
+        "location": {
+            "lat": 25.800937,
+            "lng": -80.203473
+        },
+        "id": 2,
+        "date": 1657839944,
+        "likes": 0,
+        "author": "macapedi",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "http://localhost:8080/images/DSC00676.jpg"
+    },
+    {
+        "title": "Wynwood Buggies Look",
+        "location": {
+            "lat": 25.800937,
+            "lng": -80.203473
+        },
+        "id": 3,
+        "date": 1657839944,
+        "likes": 0,
+        "author": "macapedi",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "http://localhost:8080/images/DSC00677.jpg"
+    },
+    {
+        "title": "Frog King",
+        "location": {
+            "lat": 25.800937,
+            "lng": -80.203473
+        },
+        "id": 8,
+        "date": 1657839944,
+        "likes": 0,
+        "author": "macapedi",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "http://localhost:8080/images/DSC00680.jpg"
+    },
+    {
+        "title": "take it ez",
+        "location": {
+            "lat": 25.800937,
+            "lng": -80.203473
+        },
+        "id": 4,
+        "date": 1657839944,
+        "likes": 0,
+        "author": "macapedi",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "http://localhost:8080/images/DSC00681.jpg"
+    },
+    {
+        "title": "cheewie",
+        "location": {
+            "lat": 25.800937,
+            "lng": -80.203473
+        },
+        "id": 5,
+        "date": 1657839944,
+        "likes": 0,
+        "author": "macapedi",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "http://localhost:8080/images/DSC00687.jpg"
+    },
+    {
+        "title": "bettle's #1 fan",
+        "location": {
+            "lat": 25.800937,
+            "lng": -80.203473
+        },
+        "id": 6,
+        "date": 1657839944,
+        "likes": 0,
+        "author": "andrew",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "http://localhost:8080/images/DSC00675.jpg"
+    },
+    {
+        "title": "future-proofed",
+        "location": {
+            "lat": 25.800937,
+            "lng": -80.203473
+        },
+        "id": 7,
+        "date": 1657839944,
+        "likes": 0,
+        "author": "andrew",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "http://localhost:8080/images/DSC00688.jpg"
     }
+
 ]

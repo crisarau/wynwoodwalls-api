@@ -2,16 +2,30 @@
     "username": "macapedi",
     "collections" :[
         {
-            "favorites":[
-            {
-                "id": 0
-            }
+            "name": "favorites",
+            "content" :[
+                {"id": 0},
+                {"id": 5}
+            ]
+        },{
+            "name": "to visit",
+            "content" :[
+                {"id": 8}
             ]
         }
         ],
     "uploads" : [
         {
-            "id": 1
+            "id": 3
+        },
+        {
+            "id": 8
+        },
+        {
+            "id": 4
+        },
+        {
+            "id": 5
         }
     ]
 },{
@@ -26,9 +40,27 @@
             ]
         }
         ],
+    "uploads" : []
+},{
+    "username": "andrew",
+    "collections" :[
+        {
+            "name": "favorites",
+            "content" : [
+            {
+                "id": 0
+            }
+            ]
+        }
+        ],
     "uploads" : [
         {
-            "id": 1
+            "id": 6
+        },
+        {
+            "id": 7
         }
     ]
-}]
+}
+
+]
