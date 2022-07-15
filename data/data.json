@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Future Proof Croc",
+        "location": {
+            "lat": 25.801809,
+            "lng": -80.203444
+        },
+        "id": 0,
+        "date": 1657839944,
+        "likes": 2,
+        "author": "me",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "https://cataas.com/cat"
+    },
+    {
+        "title": "haha",
+        "location": {
+            "lat": 25.800937,
+            "lng": -80.203473
+        },
+        "id": 1,
+        "date": 1657839944,
+        "likes": 4,
+        "author": "me",
+        "socials": [
+            {
+                "ig": ""
+            }
+        ],
+        "image": "https://cataas.com/cat"
+    }
+]

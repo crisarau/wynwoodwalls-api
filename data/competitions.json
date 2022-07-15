@@ -1,0 +1,13 @@
+[
+    {
+        "competitionName": "best hackathon!",
+        "contestants": [
+            {
+            "id" : 0,
+            "votes" : 0
+            }
+        ],
+        "id": 0
+    }
+
+]

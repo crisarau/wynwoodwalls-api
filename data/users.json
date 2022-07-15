@@ -1,0 +1,34 @@
+[{
+    "username": "macapedi",
+    "collections" :[
+        {
+            "favorites":[
+            {
+                "id": 0
+            }
+            ]
+        }
+        ],
+    "uploads" : [
+        {
+            "id": 1
+        }
+    ]
+},{
+    "username": "crisarau",
+    "collections" :[
+        {
+            "name": "favorites",
+            "content" : [
+            {
+                "id": 0
+            }
+            ]
+        }
+        ],
+    "uploads" : [
+        {
+            "id": 1
+        }
+    ]
+}]
